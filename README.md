@@ -1,2 +1,2 @@
 # DNA_Narasimha
-Contains all algorithmic codes of Narasimha karumanchi's book
+Contains algorithmic codes of Narasimha karumanchi's book
